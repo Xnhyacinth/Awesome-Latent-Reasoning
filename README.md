@@ -28,21 +28,19 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 ## Papers
 
-1. [**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding.**](https://arxiv.org/abs/2411.04282) *Haolin Chen, Yihao Feng, Zuxin Liu, Weiran Yao, Akshara Prabhakar, Shelby Heinecke, Ricky Ho, Phil Mui, Silvio Savarese, Caiming Xiong, Huan Wang.* Arxiv 2024.
+1. [**Language Models are Hidden Reasoners: Unlocking Latent Reasoning Capabilities via Self-Rewarding.**](https://arxiv.org/abs/2411.04282) *Haolin Chen, Yihao Feng, Zuxin Liu, Weiran Yao, Akshara Prabhakar, Shelby Heinecke, Ricky Ho, Phil Mui, Silvio Savarese, Caiming Xiong, Huan Wang.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/LaTRO)](https://github.com/SalesforceAIResearch/LaTRO)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/SalesforceAIResearch/LaTRO)](https://github.com/SalesforceAIResearch/LaTRO)
+1. [**Training Large Language Models to Reason in a Continuous Latent Space.**](https://arxiv.org/abs/2412.06769) *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian.* Arxiv 2024. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/coconut)](https://github.com/facebookresearch/coconut)
 
-2. [**Training Large Language Models to Reason in a Continuous Latent Space.**](https://arxiv.org/abs/2412.06769) *Shibo Hao, Sainbayar Sukhbaatar, DiJia Su, Xian Li, Zhiting Hu, Jason Weston, Yuandong Tian.* Arxiv 2024.
+1. [**Deliberation in Latent Space via Differentiable Cache Augmentation.**](https://arxiv.org/abs/2412.17747) *Luyang Liu, Jonas Pfeiffer, Jiaxing Wu, Jun Xie, Arthur Szlam.* Arxiv 2024.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/coconut)](https://github.com/facebookresearch/coconut)
+1. [**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations.**](https://arxiv.org/abs/2412.13171) *Jeffrey Cheng, Benjamin Van Durme.* Arxiv 2024.
 
-3. [**Deliberation in Latent Space via Differentiable Cache Augmentation.**](https://arxiv.org/abs/2412.17747) *Luyang Liu, Jonas Pfeiffer, Jiaxing Wu, Jun Xie, Arthur Szlam.* Arxiv 2024.
+1. [**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.**](https://arxiv.org/abs/2502.05171) *Jonas Geiping, Sean McLeish, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Tom Goldstein.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/seal-rg/recurrent-pretraining)](https://github.com/seal-rg/recurrent-pretraining)
 
-4. [**Compressed Chain of Thought: Efficient Reasoning Through Dense Representations.**](https://arxiv.org/abs/2412.13171) *Jeffrey Cheng, Benjamin Van Durme.* Arxiv 2024.
+1. [**Reasoning with Latent Thoughts: On the Power of Looped Transformers.**](https://arxiv.org/abs/2502.17416) *Nikunj Saunshi, Nishanth Dikkala, Zhiyuan Li, Sanjiv Kumar, Sashank J. Reddi.* Arxiv 2025.
 
-5. [**Scaling up Test-Time Compute with Latent Reasoning: A Recurrent Depth Approach.**](https://arxiv.org/abs/2502.05171) *Jonas Geiping, Sean McLeish, Neel Jain, John Kirchenbauer, Siddharth Singh, Brian R. Bartoldson, Bhavya Kailkhura, Abhinav Bhatele, Tom Goldstein.* Arxiv 2025.
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/seal-rg/recurrent-pretraining)](https://github.com/seal-rg/recurrent-pretraining)
+1. [**Human Preferences in Large Language Model Latent Space: A Technical Analysis on the Reliability of Synthetic Data in Voting Outcome Prediction.**](https://arxiv.org/abs/2502.16280) *Sarah Ball, Simeon Allmendinger, Frauke Kreuter, Niklas Kühl.* Arxiv 2025.
 
 ## Acknowledgements
 Please get in touch with me if I miss your names on the list, I will add you back ASAP!
