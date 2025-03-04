@@ -42,5 +42,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**Human Preferences in Large Language Model Latent Space: A Technical Analysis on the Reliability of Synthetic Data in Voting Outcome Prediction.**](https://arxiv.org/abs/2502.16280) *Sarah Ball, Simeon Allmendinger, Frauke Kreuter, Niklas Kühl.* Arxiv 2025.
 
+1. [**CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.**](https://arxiv.org/abs/2502.21074) *Zhenyi Shen, Hanqi Yan, Linhai Zhang, Zhanghao Hu, Yali Du, Yulan He.* Arxiv 2025.
+
 ## Acknowledgements
 Please get in touch with me if I miss your names on the list, I will add you back ASAP!
