@@ -44,5 +44,7 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 
 1. [**CODI: Compressing Chain-of-Thought into Continuous Space via Self-Distillation.**](https://arxiv.org/abs/2502.21074) *Zhenyi Shen, Hanqi Yan, Linhai Zhang, Zhanghao Hu, Yali Du, Yulan He.* Arxiv 2025.
 
+1. [**LLM Pretraining with Continuous Concepts.**](https://arxiv.org/abs/2502.08524) *Jihoon Tack, Jack Lanchantin, Jane Yu, Andrew Cohen, Ilia Kulikov, Janice Lan, Shibo Hao, Yuandong Tian, Jason Weston, Xian Li.* Arxiv 2025. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![GitHub Repo stars](https://img.shields.io/github/stars/facebookresearch/RAM)](https://github.com/facebookresearch/RAM/tree/main/projects/cocomix)
+
 ## Acknowledgements
 Please get in touch with me if I miss your names on the list, I will add you back ASAP!
